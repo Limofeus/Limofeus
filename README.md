@@ -1,1 +1,1 @@
-![Header](./header-texture.png)
+![Header](./header-texture.jpg)
